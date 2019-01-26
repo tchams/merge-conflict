@@ -2,7 +2,7 @@
 
 # Napping
 - skill: Napping 
-  knows when to power nap to increase productivity.
+  description: Knows when to power nap to increase productivity.
 
 # Education
 - skill: Education
